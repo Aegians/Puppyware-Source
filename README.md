@@ -1,3 +1,3 @@
 # Puppyware-Source
-**Open sourced of a dahood script, just decompiled it.**
+**Open-sourced dahood script, just decompiled it. fixed the silent aim and other tabs the retards broke**
 
